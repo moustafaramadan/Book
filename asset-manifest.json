@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Book/static/css/main.82a9f4c0.chunk.css",
+    "main.js": "/Book/static/js/main.1c343864.chunk.js",
+    "main.js.map": "/Book/static/js/main.1c343864.chunk.js.map",
+    "runtime-main.js": "/Book/static/js/runtime-main.5b65a24c.js",
+    "runtime-main.js.map": "/Book/static/js/runtime-main.5b65a24c.js.map",
+    "static/js/2.022b5e6d.chunk.js": "/Book/static/js/2.022b5e6d.chunk.js",
+    "static/js/2.022b5e6d.chunk.js.map": "/Book/static/js/2.022b5e6d.chunk.js.map",
+    "index.html": "/Book/index.html",
+    "static/css/main.82a9f4c0.chunk.css.map": "/Book/static/css/main.82a9f4c0.chunk.css.map",
+    "static/js/2.022b5e6d.chunk.js.LICENSE.txt": "/Book/static/js/2.022b5e6d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Book/static/media/arrow-drop-down.4378492a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b65a24c.js",
+    "static/js/2.022b5e6d.chunk.js",
+    "static/css/main.82a9f4c0.chunk.css",
+    "static/js/main.1c343864.chunk.js"
+  ]
+}
