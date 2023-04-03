@@ -69,7 +69,7 @@ const getSearch= async()=>{
 
   return (
     <div className="app">
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route
             path="/"
